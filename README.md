@@ -5,7 +5,7 @@ A simple and interactive BMI (Body Mass Index) Calculator built using HTML, CSS,
 ---
 
 🚀 Live Demo
-👉 [https://your-username.github.io/BMI_CALCULATOR/](http://127.0.0.1:5500/index.html)
+👉 [[https://your-username.github.io/BMI_CALCULATOR/](http://127.0.0.1:5500/index.html)](http://127.0.0.1:5500/index.html)
 
 ---
 
